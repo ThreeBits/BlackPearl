@@ -1,5 +1,7 @@
 Purdue Hackers Battleship
 
+BLAK PEARL - 2nd Place
+
 ========== Description ==========
 
 Welcome to Battleship!
